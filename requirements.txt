@@ -1,0 +1,10 @@
+redis
+rq
+python-dotenv
+opencv-python-headless
+numpy
+paddleocr
+ocrmypdf
+pdfminer.six
+python-magic
+regex
